@@ -1,7 +1,7 @@
 import datetime
 
 # Define a data em que começaste (Ano, Mês, Dia)
-DATA_INICIO = datetime.date(2026, 2, 9) 
+DATA_INICIO = datetime.date(2026, 4, 8) 
 hoje = datetime.date.today()
 dias_sem_bagunca = (hoje - DATA_INICIO).days
 
