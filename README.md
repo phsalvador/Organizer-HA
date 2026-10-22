@@ -2,9 +2,9 @@
 # 🛡️ Painel de Disciplina: Operação Sem Bagunça
 
 ![Status](https://img.shields.io/badge/Status-Ativo-brightgreen)
-![Dias](https://img.shields.io/badge/Dias%20Sem%20Bagunça-100-blue?style=for-the-badge)
+![Dias](https://img.shields.io/badge/Dias%20Sem%20Bagunça-101-blue?style=for-the-badge)
 
-## 📊 Contador Atual: 100 dias
+## 📊 Contador Atual: 101 dias
 
 *“A organização é o caminho para a clareza mental.”*
 
